@@ -9,13 +9,13 @@ Fetches apple attribution data via iAd and AdServices APIs
 ## Installation
 
 ```sh
-npm install @hexigames/react-native-apple-ads-attribution
+npm install @nutrisense/react-native-apple-ads-attribution
 ```
 
 ## Usage
 
 ```js
-import AppleAdsAttribution from "@hexigames/react-native-apple-ads-attribution";
+import AppleAdsAttribution from "@nutrisense/react-native-apple-ads-attribution";
 
 const attributionData = await AppleAdsAttribution.getAttributionData();
 const iAdAttributionData = await AppleAdsAttribution.getiAdAttributionData();
