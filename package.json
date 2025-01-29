@@ -1,7 +1,7 @@
 {
   "name": "@nutrisense/react-native-apple-ads-attribution",
-  "version": "1.0.2",
-  "description": "Fetches apple attribution data via iAd and AdServices APIs",
+  "version": "1.0.3",
+  "description": "Fetches Apple attribution data via AdServices APIs",
   "main": "index",
   "scripts": {
     "release": "release-it"
@@ -12,7 +12,6 @@
     "apple",
     "ads",
     "search-ads",
-    "iAd",
     "AdServices",
     "attribution",
     "attributionDetails",
